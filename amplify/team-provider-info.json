@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-schedulingawsapp-dev-43646-authRole",
+      "UnauthRoleArn": "arn:aws:iam::576873269464:role/amplify-schedulingawsapp-dev-43646-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::576873269464:role/amplify-schedulingawsapp-dev-43646-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-schedulingawsapp-dev-43646-deployment",
+      "UnauthRoleName": "amplify-schedulingawsapp-dev-43646-unauthRole",
+      "StackName": "amplify-schedulingawsapp-dev-43646",
+      "StackId": "arn:aws:cloudformation:us-east-1:576873269464:stack/amplify-schedulingawsapp-dev-43646/0fbee070-7931-11ee-9972-0e55a1b5a5b7",
+      "AmplifyAppId": "d3o1k57yezeldq"
+    }
+  }
+}
